@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1666556006 source:c:\projetopim\projetopim\entidades.c
+
+1666575533 source:c:\projetopim\projetopim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"escolha_peca.h"
+
+1666574668 c:\projetopim\projetopim\funcoes.h
+
+1666573449 c:\projetopim\projetopim\menu_principal.h
+
+1666574581 source:c:\projetopim\projetopim\cadastro_cliente.c
+
+1666574668 c:\projetopim\projetopim\escolha_peca.h
+
+1666648360 source:c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\cadastro_cliente.c
+
+1666650642 source:c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"escolha_peca.h"
+	<locale.h>
+
+1666651871 c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\escolha_peca.h
+
+1666652655 source:c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\escolha_peca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ferramentas.h"
+
+1666651099 source:c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\dados_cliente.c
+
+1666651099 c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\dados_cliente.h
+
+1666651983 c:\users\unip\downloads\projetopim-20221024t220300z-001\projetopim\ferramentas.h
+
+1666663011 source:c:\projetopim-\projetopim\dados_cliente.c
+
+1666663011 source:c:\projetopim-\projetopim\escolha_peca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"ferramentas.h"
+
+1669245620 c:\projetopim-\projetopim\ferramentas.h
+
+1669165369 source:c:\projetopim-\projetopim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Usuario.h"
+	<conio.h>
+	<locale.h>
+
+1666663011 c:\projetopim-\projetopim\escolha_peca.h
+
+1666749343 c:\projetopim-\projetopim\login.h
+
+1667050816 source:c:\projetopim-\projetopim\login.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+	"ferramentas.h"
+
+1668207516 source:c:\projetopim-\projetopim\menu_principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1667059208 source:c:\projetopim-\projetopim\loginu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+	"ferramentas.h"
+
+1666749343 c:\projetopim-\projetopim\loginu.h
+
+1667054132 source:c:\projetopim-\projetopim\logina.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ferramentas.h"
+
+1670186581 source:c:\projetopim-\projetopim\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ferramentas.h"
+	<conio.h>
+
+1670189630 source:c:\projetopim-\projetopim\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	"ferramentas.h"
+
+1668476452 c:\projetopim-\projetopim\usuario.h
+
+1670535359 source:c:\users\mauro\downloads\projetopim\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"ferramentas.h"
+	<conio.h>
+
+1670196466 c:\users\mauro\downloads\projetopim\ferramentas.h
+
+1670527411 source:c:\users\mauro\downloads\projetopim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Usuario.h"
+	<conio.h>
+	<locale.h>
+
+1668476452 c:\users\mauro\downloads\projetopim\usuario.h
+
+1670535359 source:c:\users\mauro\downloads\projetopim\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	"ferramentas.h"
+
